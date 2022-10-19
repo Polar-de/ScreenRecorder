@@ -4,9 +4,13 @@
     "description": "With this extension, you can record any website!",
     "version": "1.0",
     "author": "Lars Scherbel",
+    "icons": {
+        "48": "./assets/recording_icon_48.png",
+        "96": "./assets/recording_icon_96.png"
+    },
     "action": {
         "default_popup": "index.html",
-        "default_icon": "./assets/recording_icon_96.png",
-        "default_title": "Screen Recorder"
+        "default_icon": "./assets/recording_icon_48.png",
+        "default_title": "Tab the button to start recording"
     }
 }

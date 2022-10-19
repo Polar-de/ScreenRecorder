@@ -8,7 +8,6 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: space-around;
     
     overflow: hidden;
 
@@ -42,6 +41,7 @@ p {margin: 0rem;}
 }
 
 .icon_links {
+    align-self: flex-end;
     margin: 2rem;
     font-size: .6rem;
 }
