@@ -12,5 +12,6 @@
         "default_popup": "index.html",
         "default_icon": "./assets/recording_icon_48.png",
         "default_title": "Tab the button to start recording"
-    }
+    },
+    "permissions": ["downloads"]
 }
