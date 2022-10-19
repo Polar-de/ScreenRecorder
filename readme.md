@@ -1,4 +1,4 @@
-#Screen Recorder Chrome Extension
+# Screen Recorder Chrome Extension
 Chrome Extension to record your screen, a window or a browser tab.
 
 ## How to install
