@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Screen Recorder",
-    "description": "With this extension, you can record any website!",
+    "description": "Record your screen, browser, or window with this chrome extension!",
     "version": "1.0",
     "author": "Lars Scherbel",
     "icons": {
@@ -12,6 +12,5 @@
         "default_popup": "index.html",
         "default_icon": "./assets/recording_icon_48.png",
         "default_title": "Tab the button to start recording"
-    },
-    "permissions": ["downloads"]
+    }
 }
