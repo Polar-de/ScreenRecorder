@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Screen Recorder",
+    "description": "With this extension, you can record any website!",
+    "version": "1.0",
+    "author": "Lars Scherbel",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "./assets/recording_icon_96.png",
+        "default_title": "Screen Recorder"
+    }
+}
